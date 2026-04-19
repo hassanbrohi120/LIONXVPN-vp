@@ -274,4 +274,9 @@
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp",
     "countryCode": "ca"
   }
+  {
+    "name": "ISRAEL",
+    "config": "ss://YWVzLTI1Ni1nY206a1hJWlZoRGNNTnlZeWgxVQ@tel5.vpntype.dev:8388#Israel",
+    "countryCode": "il"
+  }
 ]
