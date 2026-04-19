@@ -205,8 +205,8 @@
     "countryCode": "in"
   },
   {
-    "name": "BAHRAINA",
-    "config": "ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881#Ireland%20#32428%20/%20OutlineKeys.com",
+    "name": "BAHRAIN",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.2.182:990#🇧🇭[openproxylist.com] ss-BH",
     "countryCode": "bh"
   },
   {
@@ -273,30 +273,5 @@
     "name": "CANADA",
     "config": "ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.95.183:443#Canada%20Datacamp",
     "countryCode": "ca"
-  }
-  {
-    "name": "UNITED STATES-",
-    "config": "vless://77534396-dead-4a6c-8761-03939cd4fdc8@172.64.149.54:443#United%20States",
-    "countryCode": "us"
-  },
-  {
-    "name": "GERMANY-",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZmZVaDJtdms0SHNoVXR5c2tFZzlB@92.119.166.46:1080#Germany",
-    "countryCode": "de"
-  },
-  {
-    "name": "UNITED STATES-",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSU281MlNieFc0MHI=@108.181.57.93:8388#United%20States",
-    "countryCode": "us"
-  },
-  {
-    "name": "TURKEY-",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQVR1ZVhtTG1NWE0yZVBUSjNrNTd5@h110vpntr.outlinekeys.net:65262#Turkey",
-    "countryCode": "tr"
-  },
-  {
-    "name": "ISRAEL-",
-    "config": "ss://YWVzLTI1Ni1nY206a1hJWlZoRGNNTnlZeWgxVQ@tel5.vpntype.dev:8388#Israel",
-    "countryCode": "il"
   }
 ]
