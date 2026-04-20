@@ -1,3 +1,4 @@
+
 [
   {
     "name": "UNITED STATES",
@@ -95,8 +96,8 @@
     "countryCode": "de"
   },
   {
-    "name": "GERMANY",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKTks3Q3Z1dldUcEYyWlkzZDl5Z3Qx@109.122.197.192:443#Germany%20#29847%20/%20OutlineKeys.com",
+    "name": "Brazil",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4@157.185.173.60:46727#Brazil%20#33598%20/%20OutlineKeys.com",
     "countryCode": "de"
   },
   {
@@ -254,14 +255,14 @@
     "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#Argentina%20#28527%20/%20OutlineKeys.com",
     "countryCode": "ar"
   },
-   {
-    "name": "ISRAEL",
-    "config": "ss://YWVzLTI1Ni1nY206a1hJWlZoRGNNTnlZeWgxVQ@tel5.vpntype.dev:8388#Israel",
-    "countryCode": "il"
+  {
+    "name": "COSTA RICA",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyTmE3NTNCY1V1UEJMOFl4WHg5Qng1YjRkZlZGdTQ1UWt6b3J3cVppelRsNkFmM04=@103.253.74.94:31348#Thailand",
+    "countryCode": "cr"
   },
     {
-    "name": "hy2 test",
-    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQQVR1ZVhtTG1NWE0yZVBUSjNrNTd5@h110vpntr.outlinekeys.net:65262#Turkey",
+    "name": "Thailand",
+    "config": "ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTJlZTliY2M5NTcwMDk1@163.171.148.71:11201#Thailand%20#34998%20/%20OutlineKeys.com",
     "countryCode": "cr"
   },
   {
